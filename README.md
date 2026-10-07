@@ -21,7 +21,7 @@ I'm a third-year Software Engineering student at **VNU-HCM University of Science
 
 * ✈️ **[PlanMate](https://github.com/cpgod36/PlanMate)**: A collaborative group travel planning web application featuring real-time itinerary management, expense splitting, and Gemini API integration for smart suggestions. *(React, FastAPI, Firebase)*
 * 💻 **[LMS Coding Platform](https://github.com/nguyenkhaan/LMS-coding-platform)**: A web-based learning platform featuring dedicated workflows and an interactive Online Judge system using Monaco Editor. *(React, TypeScript, REST API)*
-* 📚 **[Hanyu Vocabulary Learning App](https://github.com/ltnguyn/hanyu-flashcard)**: An interactive Chinese-Vietnamese vocabulary learning app with HSK-leveled learning paths and dynamic multiple-choice practice. *(TypeScript, React, Tailwind CSS)*
+* 📚 **[Hanyu Vocabulary Learning App](https://github.com/ltnguyn/hanyu-flashcard) - [Live Demo](https://hanyu-flashcard.ltn-elearning.workers.dev)**: An interactive Chinese-Vietnamese vocabulary learning app with HSK-leveled learning paths and dynamic multiple-choice practice. *(TypeScript, React, Tailwind CSS)*
 
 ---
 
